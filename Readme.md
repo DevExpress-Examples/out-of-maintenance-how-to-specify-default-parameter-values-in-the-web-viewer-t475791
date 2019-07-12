@@ -6,7 +6,7 @@
 <!-- default file list end -->
 # How to specify default parameter values in the Web Viewer
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t475791)**
+**[[Run Online]](https://codecentral.devexpress.com/t475791/)**
 <!-- run online end -->
 
 
